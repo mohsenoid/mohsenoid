@@ -14,4 +14,4 @@ I am a kinda computer geek who cannot resist Mobile apps, IoT, Tech talks, and v
   - Website: [mohsenoid.com](https://mohsenoid.com)
   - Email: [contact@mohsenoid.com](mailto:contact@mohsenoid.com)
   - Twitter: ![Twitter followers](https://img.shields.io/twitter/follow/mohsenoid?style=social)
-  - GitHub: ![GitHub followers](https://img.shields.io/github/followers/miquelbeltran?style=social)
+  - GitHub: ![GitHub followers](https://img.shields.io/github/followers/mohsenoid?style=social)
