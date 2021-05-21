@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I am Mohsen,
+A senior software engineer with a passion for Android development. I have worked more than seven years extensively in the mobile application field and also had a chance to lead and train other developers.👨‍💻
 
-<!--
-**mohsenoid/mohsenoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a kinda computer geek who cannot resist Mobile apps, IoT, Tech talks, and video gaming.🕹
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on an Android app for GLS drivers @ [GLS eCom Lab](https://github.com/gls-ecl)
+- 🌱 I’m currently learning Jetpack Compose
+- 👯 I’m looking to collaborate on any Android Open Source libraries
+- 💬 Ask me about Android development, I may be able to answer
+- 📫 How to reach me:
+  - Website: https://mohsenoid.com
+  - Email: [contact@mohsenoid.com](mailto:contact@mohsenoid.com)
+  - Twitter: ![Twitter followers](https://img.shields.io/twitter/follow/mohsenoid?style=social)
+  - GitHub: ![GitHub followers](https://img.shields.io/github/followers/miquelbeltran?style=social)
