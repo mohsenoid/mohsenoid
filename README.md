@@ -14,6 +14,6 @@ I am a kinda computer geek who cannot resist Mobile apps, IoT, Tech talks, and v
 - 📫 How to reach me:
   - Website: [mohsenoid.com](https://mohsenoid.com)
   - Email: [contact@mohsenoid.com](mailto:contact@mohsenoid.com)
-  - Twitter: [@mohsenoid](https://twitter.com/@mohsenoid) ![Twitter followers](https://img.shields.io/twitter/follow/mohsenoid?style=social)
-  - GitHub: [@mohsenoid](https://github.com/mohsenoid/) ![GitHub followers](https://img.shields.io/github/followers/mohsenoid?style=social)
-  - YouTube: [Android Development Lightning Tips & Tricks](https://youtube.com/channel/UCVyVqVRYcykw6OFu61RkPsw) ![YouTube channel subscribers](https://img.shields.io/youtube/channel/subscribers/UCVyVqVRYcykw6OFu61RkPsw?style=social)
+  - Twitter: [@mohsenoid ![Twitter followers](https://img.shields.io/twitter/follow/mohsenoid?style=social)](https://twitter.com/@mohsenoid)
+  - GitHub: [@mohsenoid ![GitHub followers](https://img.shields.io/github/followers/mohsenoid?style=social)](https://github.com/mohsenoid/)
+  - YouTube: [Android Development Lightning Tips & Tricks ![YouTube channel subscribers](https://img.shields.io/youtube/channel/subscribers/UCVyVqVRYcykw6OFu61RkPsw?style=social)](https://www.youtube.com/c/AndroidDevelopmentLightningTipsAndTricks)
