@@ -1,8 +1,6 @@
 ### Hi there 👋 I am Mohsen,
 A senior software engineer with a passion for Android development.🤖
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohsenoid&theme=radical&show_icons=true&include_all_commits=true)
-
 I have worked more than eight years extensively in the mobile application field and also had a chance to lead and train other developers.👨‍💻
 
 I am a kinda computer geek who cannot resist Mobile apps, IoT, Tech talks, and video gaming.🕹
