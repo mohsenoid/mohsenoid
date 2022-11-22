@@ -5,7 +5,7 @@ I have worked more than eight years extensively in the mobile application field 
 
 I am a kinda computer geek who cannot resist Mobile apps, IoT, Tech talks, and video gaming.🕹
 
-- 🔭 I’m currently working on an Android app for GLS drivers @ [GLS eCom Lab](https://github.com/gls-ecl)
+- 🔭 I’m currently working on Android SDKs for [Firework](https://firework.tv)
 - 🌱 I’m currently learning Jetpack Compose
 - 👯 I’m looking to collaborate on any Android Open Source libraries
 - 💬 Ask me about Android development, I may be able to answer
