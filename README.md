@@ -19,3 +19,4 @@ I am a kinda computer geek who cannot resist Mobile apps, IoT, Tech talks, and v
   - Reddit: [@mohsenoid ![Reddit Karma](https://img.shields.io/reddit/user-karma/combined/mohseniod?style=social)](https://www.reddit.com/user/mohseniod)
   - YouTube: [Android Developer Tips ![YouTube channel subscribers](https://img.shields.io/youtube/channel/subscribers/UCVyVqVRYcykw6OFu61RkPsw?style=social)](https://www.youtube.com/channel/UCVyVqVRYcykw6OFu61RkPsw)
   - Linkedin: [mohsenoid](https://www.linkedin.com/in/mohsenoid/)
+  - Mastodon: <a rel="me" href="https://androiddev.social/@mohsenoid">@mohsenoid@androiddev.social</a>
