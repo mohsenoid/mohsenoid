@@ -1,7 +1,9 @@
 ### Hi there 👋 I am Mohsen,
 A senior software engineer with a passion for Android development.🤖
 
-I have worked more than eight years extensively in the mobile application field and also had a chance to lead and train other developers.👨‍💻
+I have worked since 2012 extensively in the mobile application field and also had a chance to lead and train other developers.👨‍💻
+Here is my CV if you are interested to learn more:
+https://mohsenoid.github.io/cv/
 
 I am a kinda computer geek who cannot resist Mobile apps, IoT, Tech talks, and video gaming.🕹
 
