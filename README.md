@@ -7,8 +7,8 @@ I am a kinda computer geek who cannot resist Mobile apps, IoT, Tech talks, and v
 
 Here is my CV if you are interested to learn more: https://mohsenoid.github.io/cv/
 
-- 🔭 I’m currently working on Android SDKs @ [Firework](https://firework.tv)
-- 🌱 I’m currently learning Jetpack Compose
+- 🔭 I’m currently working on Android SDKs @ [Wolt](https://wolt.com)
+- 🌱 I’m currently learning how to improve my tests and what to test
 - 👯 I’m looking to collaborate on any Android Open Source libraries
 - 💬 Ask me about Android development, I may be able to answer
 - 📺 I've a [YouTube channel](https://youtube.com/channel/UCVyVqVRYcykw6OFu61RkPsw) sharing my knowledge and experiences in Android Development
